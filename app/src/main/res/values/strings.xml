@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">IDOLIZED48</string>
+
+    <string name="desc_logo_login">logo jkt48</string>
+    <string name="jkt48_apk">JKT48 APK</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_in2">Sign In</string>
+    <string name="Hi">Hi There! Nice to meet you</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="OrUse">or use one your social profiles</string>
+
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_password">Masukkan Password</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_marsha_profile">Marsha Lenathea</string>
+    <string name="email_marsha">marsha48@gmail.com</string>
+    <string name="teks_ofc">OFC</string>
+    <string name="teks_member">Member</string>
+
+    <string name="teks_lagu">Lagu</string>
+    <string name="ultah_bln">Ulang Tahun Bulan Ini nih...</string>
+    <string name="anggota_jkt48">Anggota JKT48</string>
+
+    // nama member//
+
+    <string name="ashel">Ashel</string>
+    <string name="marsha">Marsha</string>
+    <string name="freya">Freya</string>
+    <string name="flora">Flora</string>
+    <string name="register">Register</string>
+    <string name="masukkan_password_kembali">Masukkan Password Kembali</string>
+    <string name="rapsodi">Rapsodi</string>
+    <string name="flying_high">Flying High</string>
+    <string name="update">Update</string>
+
+    <string name="kelompo3">Aplikasi ini dibuat untuk Tugas mata pelajaran Mobile Programming, Aplikasi ini untuk kalian melihat informasi Member JKT48 dan ada fitur untuk pamer Oshi kalian
+    </string>
+
+    <string name="oshi">Oshi</string>
+
+</resources>
